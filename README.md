@@ -8,7 +8,7 @@ It is a prototype of an all-in-one structured platform where coding meets clarit
 
 ## Key Features
 
-## Technical Excellence
+## Tech Stack
  
 - Next.js App Router for modern architecture  
 - Framer Motion for clean, performant animations  
